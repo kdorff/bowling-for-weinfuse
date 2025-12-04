@@ -1,15 +1,15 @@
 Install homebrew.  
 https://brew.sh/
 
-Install Java and Groovy, such as on Mac
+Install `Java` and `Groovy`, such as on Mac
 
 ```
 brew install openjdk
 brew install groovy
 ```
 
-In your environment, define JAVA_HOME, GROOVY_HOME, and PATH. 
-This was my definition, in my ~/.zshrc:
+In your environment, define `JAVA_HOME`, `GROOVY_HOME`, and `PATH.` 
+This was my definition, in my `~/.zshrc`:
 
 ```
 export GROOVY_HOME=/opt/homebrew/opt/groovy/libexec
